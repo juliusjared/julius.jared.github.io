@@ -5,12 +5,11 @@ h1 {
 text-align: center;
 color: white;
 font-size: 200%;
-font-family: 'Londrina Shadow', cursive;
 }
 h3 {
 text-align: center;
 color: white;
-font-family: 'Londrina Shadow', cursive;
+
 }
 body { 
    background-color: black;
@@ -25,7 +24,6 @@ nav li {
     display: inline; 
     text-align: center;
     margin: 150px;
-font-family: 'Londrina Shadow', cursive;
 text-color: black;
 
 }
@@ -43,13 +41,12 @@ footer {
 text-align: center;
 color: white;
 margin: 100px;
-font-family: 'Londrina Shadow', cursive;
+
 }
 p {
 text-align: center;  
 color: white;
 margin: 100px;
 font-size: 200%;
-font-family: 'Londrina Shadow', cursive;
 }
 
