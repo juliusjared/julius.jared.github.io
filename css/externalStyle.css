@@ -20,9 +20,9 @@ body {
 
 nav li {
     display: inline; 
+    text-align: center;
     margin: 150px;
     padding: 0px; 100px; 100px; 100px;
-   background-color: white;
 }
 #man {
    position: center;
