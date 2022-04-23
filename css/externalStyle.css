@@ -1,0 +1,47 @@
+
+
+
+h1 {
+text-align: center;
+color: white;
+}
+h3 {
+text-align: center;
+color: white;
+}
+body { 
+   background-color: black;
+}
+#navbar {
+  background-color: white;
+  color: black;
+  position: relative;
+}
+
+nav li {
+    display: inline; 
+    margin: 150px;
+    padding: 0px; 100px; 100px; 100px;
+   background-color: white;
+}
+#man {
+   position: center;
+   width: 20%; 
+   display: block; 
+   margin: 0 auto; 
+}
+.hr {
+  position: relative;
+  color: white;
+}
+footer {
+text-align: center;
+color: white;
+margin: 100px;
+}
+p {
+text-align: center;  
+color: white;
+margin: 100px;
+}
+
