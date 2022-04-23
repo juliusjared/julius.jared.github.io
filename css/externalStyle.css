@@ -15,17 +15,29 @@ body {
    background-color: white;
 }
 #navbar {
+  
   text-color: black;
   position: relative;
   text-align: center;
   margin: 0 auto;
   padding-right: 50px;
+
 }
 
 nav li {
+    width: 20%;
+    border-right 1px solid black;
+    height: 50px;
+    line-height: 50px;
+    font-size: 140%;
     display: inline-block; 
     text-align: center;
-    margin: 0 auto;
+    margin: 25 auto;
+    line-height: 50px;
+    margin-right: -4px;
+}
+nav a:hover {
+    
 }
 #man {
    position: center;
@@ -54,5 +66,8 @@ display: block;
 color: blue;
 text-decoration: none;
 text-align: center;
+}
+a:hover {
+background-color: purple;
 }
 
